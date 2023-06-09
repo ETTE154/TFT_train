@@ -1,7 +1,5 @@
 # TFT_train
 
-# 프로젝트 이름
-
 이 프로젝트는 PyTorch와 PyTorch Forecasting을 사용하여 Temporal Fusion Transformer (TFT) 모델을 구현합니다.
 
 ## 환경 설정
